@@ -32,3 +32,4 @@
 ![[Ovulation#Itemized notes]]
 
 #### [[Luteal phase]]
+![[Luteal phase#Itemized notes]]
