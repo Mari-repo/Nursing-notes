@@ -7,4 +7,19 @@ The one constant, whether a menstrual cycle is 28 days or 120 days, is that ovul
 ###### Itemized notes
 - Release of an oocyte into the fallopian tube where fertilization is possible
 - Mature follicle ruptures due to surge of [[Luteinizing Hormone|LH]] and releases a mature oocyte
-- 
+- Occurs on approx. Day 14 of a regular 28 day menstrual cycle
+- Causes a drop in [[estrogen]] 
+- Usually takes place 36 hours after the [[Luteinizing Hormone|LH]] surge
+- Lifespan of the ovum is only 24 hours 
+	- It will die if not fertilized
+- Cervix produces mucus that is designed to:
+	- Capture the sperm
+	- Nourish the sperm 
+	- And help it travel the cervix to meet the ovum
+- Symptoms
+	- Vaginal spotting
+	- Increase in discharge
+	- Increased libido
+	- Slight rise in basal body temperature
+	- Lower abdominal cramping 
+- Ovulation always takes place 14 days before menstruation no matter how long menstrual cycle is 
