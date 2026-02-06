@@ -1,0 +1,1 @@
+FSH is secreted by the [[Anterior pituitary gland]] and is primarily responsible for the release and maturation of the ovarian follicle. FSH secretion is highest and most important during the first week of the follicular phase of the reproductive cycle.
