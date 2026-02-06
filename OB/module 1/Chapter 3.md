@@ -25,11 +25,11 @@
 - These events are associated with a developing oocyte within the [[ovaries]]
 - There are three phases to the Ovarian cycle 
 
-#### [[1. Follicular phase]]
-![[1. Follicular phase#Itemized notes]]
+#### [[Follicular phase]]
+![[Follicular phase#Itemized notes]]
 
-#### [[2. Ovulation]]
-![[2. Ovulation#Itemized notes]]
+#### [[Ovulation]]
+![[Ovulation#Itemized notes]]
 
-#### [[2. Luteal phase]]
-![[2. Luteal phase#Itemized notes]]
+#### [[Luteal phase]]
+![[Luteal phase#Itemized notes]]

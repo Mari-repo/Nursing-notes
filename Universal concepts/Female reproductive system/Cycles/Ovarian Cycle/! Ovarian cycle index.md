@@ -1,5 +1,5 @@
-# [[1. Follicular phase]]
+# [[Follicular phase]]
 
-# [[2. Ovulation]]
+# [[Ovulation]]
 
-# [[2. Luteal phase]]
+# [[Luteal phase]]

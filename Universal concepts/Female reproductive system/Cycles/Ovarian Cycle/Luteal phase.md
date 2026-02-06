@@ -14,4 +14,4 @@ The luteal phase begins at ovulation and lasts until the menstrual phase of the 
 	- The [[Corpus Luteum]] degenerates
 	- Ovarian hormone levels decrease
 - While estrogen and progesteron levels go down, the endometrium goes through involution
-- [[Follicle Stimulating Hormone|FSH]] and [[Luteinizing Hormone|LH]] are generally at their lowest during the luteal phase and highest during the [[1. Follicular phase]]
+- [[Follicle Stimulating Hormone|FSH]] and [[Luteinizing Hormone|LH]] are generally at their lowest during the luteal phase and highest during the [[Follicular phase]]

@@ -2,8 +2,8 @@ Progesterone is secreted by the corpus luteum, a temporary endocrine gland that 
 
 ###### Itemized notes
 -  Secreted by [[Corpus Luteum]]
-- Increases before [[2. Ovulation]] 
+- Increases before [[Ovulation]] 
 	- Peaks at 5-7 days after ovulation
-- Induces swelling and secretion of endometrium during [[2. Luteal phase]]
-	- Prepares it for potential pregnancy after [[2. Ovulation]]
+- Induces swelling and secretion of endometrium during [[Luteal phase]]
+	- Prepares it for potential pregnancy after [[Ovulation]]
 - Reduces uterine contractions
