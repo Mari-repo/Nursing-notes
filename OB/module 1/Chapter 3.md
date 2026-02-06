@@ -2,4 +2,9 @@
 
 **Hormones**
 - [[Gonadotropin-Releasing Hormone]]
-	- 
+	- Secreted by hypothalamus
+	- Pulsates slowly during [[Follicular phase]]
+	- Pulsation increases during [[Luteal phase]]
+- [[Follicle Stimulating Hormone]]
+	- Secreted by the [[Anterior pituitary gland]]
+	- Release and maturation of the ovarian follicle
