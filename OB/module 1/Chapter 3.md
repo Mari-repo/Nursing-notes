@@ -30,4 +30,10 @@
 		- Blood supply is expanded as well
 - [[Progesterone]]
 	- Secreted by [[Corpus Luteum]]
-	- Increase
+	- Increases before [[ovulation]] 
+		- Peaks at 5-7 days after ovulation
+	- Induces swelling and secretion of endometrium during [[Luteal phase]]
+		- Prepares it for potential pregnancy after [[ovulation]]
+	- Reduces uterine contractions
+- [[Prostaglandins]]
+	- 

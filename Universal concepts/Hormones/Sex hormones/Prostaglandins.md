@@ -1,0 +1,4 @@
+- Prostaglandins are hormonelike primary mediators of the body’s inflammatory processes and are essential for the normal physiologic function of the female reproductive system. 
+- They are a closely related group of oxygenated fatty acids that are produced by the endometrium with a variety of effects throughout the body. 
+- Prostaglandins increase during [[f|follicular]] maturation and play a key role in ovulation by freeing the ovum inside the graafian follicle. 
+- Large amounts of prostaglandins are found in menstrual blood. 
