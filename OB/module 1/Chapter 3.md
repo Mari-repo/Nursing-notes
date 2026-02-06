@@ -5,15 +5,10 @@
 ![[Gonadotropin-Releasing Hormone#Itemized notes]]
 
 ####  [[Follicle Stimulating Hormone]]
-	
-- [[Luteinizing Hormone]]
-	- Secreted by the [[Anterior Pituitary Gland]]
-	- required for both the final maturation of preovulatory follicles and luteinization of the ruptured follicle. 
-	- Stimulates ovulation 
-	- Stimulates formation of [[Corpus Luteum]]. 
-	- [[Estrogen]] production declines 
-	- [[Progesterone]] secretion continues
-	- [[Estrogen]] levels fall a day before [[Ovulation]] and progesterone levels begin to rise.
+![[Follicle Stimulating Hormone#Itemized notes]]
+#### [[Luteinizing Hormone]]
+![[Luteinizing Hormone#Itemized notes]]
+
 ####  [[Estrogen]]
 ![[Estrogen#Itemized notes]]
 
