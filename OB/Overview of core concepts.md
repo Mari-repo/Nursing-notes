@@ -40,14 +40,14 @@
 - pay attention to specific maternity lingo
 	- gravidy
 	- parity
-	- **GTPAL**
+	- **[[GTPAL]]**
 		- refers to the maternal record of the patient
-	- **Nagele's rule**
+	- **[[Nagele's rule]]**
 		- used to calculate a woman's due date
 	- signs of pregnancy
 		- specifically :
-			- Chadwick sign
-			- Goodell sign
+			- [[Chadwick sign]]
+			- [[Goodell sign]]
 	- risk factors for pregnancy
 		- HIV and Hepatitis
 		- How the fetus is affected and necessary education in such cases
@@ -63,5 +63,52 @@
 		- How to prep for these as a nurse 
 	- Typical tests done
 		- Amniocentesis
+		- Contraction stress and non-stress tests
+			- Understand what the results mean
+- Nutrition education
+	- Pica
+	- Usual deficiencies
+	- Diabetes
+		- Gestational and type 2
 
+**Pregnancy risk**
+- Conditions that increase risk for patient
+	- Things that are found during assessment
+	- Patient education on management of risk factors
+		- eg.
+		- Ectopic pregnancy
+			- How it presents clinically
+			- What are typical patient complaints
+			- Nursing interventions for patient
 
+**Labor and delivery + risk**
+- Stages of labor
+	- 4 stages
+	- What happens during each stage
+	- How the cervix is dilating
+- How to differentiate between true and false labor
+- Fetal decelerations (FHR)
+- Different types of fetal monitoring 
+- Bishop scoring
+- Breathing techniques
+- Types of delivery 
+	- Caesarian vs vaginal delivery
+- Common problems
+	- [[Prolapsed cord]]
+	- [[Placenta previa]]
+	- [[Abruptio placenta]]
+	- Actions for each case
+	- Differentiate between each case and how they present
+- Pain relief for patient during labor
+
+**Postpartum and complications**
+- Differentiate between normal and abnormal for postpartum period
+	- [[Lochia]]
+	- How long before uterus returns to non-pregnant state
+- Breastfeeding care and complications
+	- Latching issues
+	- [[Mastitis]]
+
+**Newborn care**
+- **[[APGAR score]]**
+- Normal vital signs for a newborn 
