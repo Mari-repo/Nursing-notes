@@ -3,4 +3,4 @@ FSH is secreted by the [[Anterior Pituitary Gland]] and is primarily responsible
 ###### Itemized notes
 - Secreted by the [[Anterior Pituitary Gland]]
 - Release and maturation of the ovarian follicle
-- Highest and most important during the first week of the [[Follicular phase]]
+- Highest and most important during the first week of the [[1. Follicular phase]]
