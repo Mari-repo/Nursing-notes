@@ -1,0 +1,10 @@
+The luteal phase begins at ovulation and lasts until the menstrual phase of the next cycle. It typically occurs on days 15 through 28 of a 28-day cycle. After the follicle ruptures as it releases the egg, it closes and forms a corpus luteum. The corpus luteum secretes increasing amounts of the hormone progesterone, which interacts with the endometrium to prepare it for implantation. At the beginning of the luteal phase, progesterone induces the endometrial glands to secrete glycogen, mucus, and other substances. These glands become tortuous and have large lumens due to increased secretory activity. The progesterone secreted by the corpus luteum causes the temperature of the body to rise slightly until the start of the next period. A significant increase in temperature, usually 0.5°F to 1°F (0.28°C–0.56°C), is generally seen within a day or two after ovulation has occurred; the temperature remains elevated until 3 days before the onset of the next menstruation. If the basal body temperature elevation does not decrease, it could be an early sign of pregnancy (Steward & Raja, 2023). This rise in temperature can be plotted on a graph and gives an indication of when ovulation has occurred. In the absence of fertilization, the corpus luteum begins to degenerate and consequently ovarian hormone levels decrease. As estrogen and progesterone levels decrease, the endometrium undergoes involution. FSH and LH are generally at their lowest levels during the luteal phase and highest during the follicular phase.
+
+###### Itemized notes
+- Begins at ovulation
+- Lasts until menstrual phase of the next cycle 
+- Typically occurs on days 15 through 28 
+- After follicle rupture, it closes and forms a [[Corpus Luteum]] 
+	- Secretes increasing amounts of [[Progesterone]] which prepares the endometrium for implantation
+- At the start of this phase [[Progesterone]] induces endometrial glands to secrete glycogen, mucus and other substances
+- 

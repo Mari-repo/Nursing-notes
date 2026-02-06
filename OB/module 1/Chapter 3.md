@@ -29,4 +29,6 @@
 ![[Follicular phase#Itemized notes]]
 
 #### [[Ovulation]]
-- 
+![[Ovulation#Itemized notes]]
+
+#### [[Luteal phase]]
