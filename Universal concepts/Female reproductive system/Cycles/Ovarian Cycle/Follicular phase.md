@@ -14,7 +14,7 @@ Prompted by the hypothalamus, the pituitary gland releases follicle-stimulating 
 - [[Pituitary gland]] releases [[Follicle Stimulating Hormone|FSH]] 
 	- Stimulates ovary to produce immature follicles
 	- Each follicle has an immature egg
-	- The follicle targeted to mature will supture and expel a mature egg in [[ovulation]]
+	- The follicle targeted to mature will supture and expel a mature egg in [[Ovulation]]
 	- Surge of [[Luteinizing Hormone|LH]]
 		- Responsible for development and rupture of mature follicle
 	- The follicular phase ends the day before the [[Luteinizing Hormone|LH]] surge occurs
