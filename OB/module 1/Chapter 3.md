@@ -40,3 +40,13 @@
 
 
 # **[[Ovarian cycle]]**
+- Refers to the predictable changes in the female's oocytes and ovarian follicles. 
+- These events are associated with a developing oocyte within the [[ovaries]]
+- There are three phases to the Ovarian cycle 
+
+#### [[Follicular phase]]
+- Follicles in ovary grow and form a mature egg
+- Goal is the production of an ovum
+- Starts on day 1 of the menstrual cycle 
+	- Continues until ovulation approx. 10-14 days later
+- 
