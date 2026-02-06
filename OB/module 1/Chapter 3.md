@@ -45,7 +45,7 @@
 - There are three phases to the Ovarian cycle 
 
 #### [[Follicular phase]]
-![[Follicular phase#Itemized version]]
+![[Follicular phase#Itemized notes]]
 
 #### [[Ovulation]]
 - 

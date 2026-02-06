@@ -2,7 +2,7 @@ This phase is so named because it is when the follicles in the ovary grow and fo
 
 Prompted by the hypothalamus, the pituitary gland releases follicle-stimulating hormone (FSH), which stimulates the ovary to produce immature follicles. Each follicle houses an immature oocyte or egg. The follicle that is targeted to mature fully will soon rupture and expel a mature oocyte in the process of ovulation. A surge in luteinizing hormone (LH) from the anterior pituitary gland is responsible for affecting the final development and subsequent rupture of the mature follicle. The follicular phase ends the day before the LH surge occurs (Welt, 2023).
 
-# Itemized version
+###### Itemized notes
 - Follicles in ovary grow and form a mature egg
 - Goal is the production of an ovum
 - Starts on day 1 of the menstrual cycle 
