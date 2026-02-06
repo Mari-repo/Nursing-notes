@@ -15,8 +15,9 @@
 ####  [[Progesterone]]
 ![[Progesterone#Itemized notes]]
 
-- [[Prostaglandins]]
-	- Mediators of the body's inflammatory processes
+####  [[Prostaglandins]]
+- Mediators of the body's inflammatory processes
+- High levels are often found in menstrual blood 
 
 
 # **[[Ovarian cycle]]**

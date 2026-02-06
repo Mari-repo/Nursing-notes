@@ -6,4 +6,5 @@ The one constant, whether a menstrual cycle is 28 days or 120 days, is that ovul
 
 ###### Itemized notes
 - Release of an oocyte into the fallopian tube where fertilization is possible
-- Mature follicle ruptures due to surge of [[Luteinizing Hormone|LH]] 
+- Mature follicle ruptures due to surge of [[Luteinizing Hormone|LH]] and releases a mature oocyte
+- 
