@@ -1,6 +1,6 @@
 # Anatomy and Physiology of the Female Reproductive System
 
-**Hormones**
+# **Hormones**
 - [[Gonadotropin-Releasing Hormone]]
 	- Secreted by hypothalamus
 	- Pulsates slowly during [[Follicular phase]]
@@ -17,12 +17,12 @@
 	- Stimulates formation of [[Corpus Luteum]]. 
 	- [[Estrogen]] production declines 
 	- [[Progesterone]] secretion continues
-	- [[Estrogen]] levels fall a day before [[ovulation]] and progesterone levels begin to rise.
+	- [[Estrogen]] levels fall a day before [[Ovulation]] and progesterone levels begin to rise.
 - [[Estrogen]]
 	- Development of secondary Female sexual characteristics
 	- Secreted by ovaries
 	- Development and maturation of the Follicle
-	- Predominant at the end of the [[proliferative phase]], before [[ovulation]]
+	- Predominant at the end of the [[proliferative phase]], before [[Ovulation]]
 	- Levels drop after ovulation due to increase in [[Progesterone]]
 	- Induces proliferation of endometrial glands
 	- Causes uterus to increase in size and weight
@@ -30,10 +30,13 @@
 		- Blood supply is expanded as well
 - [[Progesterone]]
 	- Secreted by [[Corpus Luteum]]
-	- Increases before [[ovulation]] 
+	- Increases before [[Ovulation]] 
 		- Peaks at 5-7 days after ovulation
 	- Induces swelling and secretion of endometrium during [[Luteal phase]]
-		- Prepares it for potential pregnancy after [[ovulation]]
+		- Prepares it for potential pregnancy after [[Ovulation]]
 	- Reduces uterine contractions
 - [[Prostaglandins]]
-	- 
+	- Mediators of the body's inflammatory processes
+
+
+# **[[Ovarian cycle]]**
