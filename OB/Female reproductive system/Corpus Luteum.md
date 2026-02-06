@@ -1,0 +1,1 @@
+Temporary endocrine gland that is produced after ovulation during the second half of the menstrual cycle

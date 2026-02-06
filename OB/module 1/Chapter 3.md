@@ -14,7 +14,7 @@
 	- Secreted by the [[Anterior pituitary gland]]
 	- required for both the final maturation of preovulatory follicles and luteinization of the ruptured follicle. 
 	- Stimulates ovulation 
-	- Stimulates formation of [[corpus luteum]]. 
+	- Stimulates formation of [[Corpus Luteum]]. 
 	- [[Estrogen]] production declines 
 	- [[Progesterone]] secretion continues
 	- [[Estrogen]] levels fall a day before [[ovulation]] and progesterone levels begin to rise.
@@ -29,4 +29,5 @@
 		- Due to increased [[glycogen]], [[amino acids]], [[electrolytes]] and water
 		- Blood supply is expanded as well
 - [[Progesterone]]
-	- Secreted by Corpus Luteum
+	- Secreted by [[Corpus Luteum]]
+	- Increase
