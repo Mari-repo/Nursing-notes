@@ -9,8 +9,18 @@
 - [[Follicle Stimulating Hormone]]
 	- Secreted by the [[Anterior pituitary gland]]
 	- Release and maturation of the ovarian follicle
-	- Highest and most important during the first week of the [[follicular phase]]
+	- Highest and most important during the first week of the [[Follicular phase]]
 - [[Luteinizing Hormone]]
-	- Secreted by the [[anterior pituitary gland]]
+	- Secreted by the [[Anterior pituitary gland]]
 	- required for both the final maturation of preovulatory follicles and luteinization of the ruptured follicle. 
-	- Stimulates ovulation formation of corpus luteum. As a result, estrogen production declines and progesterone secretion continues. Thus, estrogen levels fall a day before ovulation, and progesterone levels begin to rise.
+	- Stimulates ovulation 
+	- Stimulates formation of [[corpus luteum]]. 
+	- [[Estrogen]] production declines 
+	- [[progesterone]] secretion continues
+	- [[Estrogen]] levels fall a day before [[ovulation]] and progesterone levels begin to rise.
+- [[Estrogen]]
+	- Development of secondary Female sexual characteristics
+	- Secreted by ovaries
+	- Development and maturation of the Follicle
+	- Predominant at the end of the [[proliferative phase]], before 
+	- 
