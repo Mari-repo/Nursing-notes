@@ -1,4 +1,4 @@
-The endometrial cycle occurs 
+The endometrial cycle occurs due to the cyclical 
 # [[Proliferative phase]]
 
 # [[Secretory phase]]
