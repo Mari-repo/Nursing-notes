@@ -1,0 +1,2 @@
+Shortened to GnRH
+
