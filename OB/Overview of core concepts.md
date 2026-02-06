@@ -110,5 +110,19 @@
 	- [[Mastitis]]
 
 **Newborn care**
-- **[[APGAR score]]**
+- [[APGAR score]]
 - Normal vital signs for a newborn 
+- Nurse's role after birth
+- Complications that an infant can have
+	- [[Respiratory Distress syndrome]]
+	- [[Torch syndrome]]
+	- [[Jaundice]]
+
+**Common medications**
+- Meds given during labor and after
+- Meds given to newborn
+	- Vit K
+	- Eyedrops
+- How to start and stop labor
+- Pain reduction
+- Learn side effects
