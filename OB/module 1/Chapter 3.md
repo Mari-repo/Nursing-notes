@@ -49,4 +49,12 @@
 - Goal is the production of an ovum
 - Starts on day 1 of the menstrual cycle 
 	- Continues until ovulation approx. 10-14 days later
-- 
+- Increased levels of estrogen 
+	- Induce proliveration of endometrium and myometrium
+- Thickening of the uterine lining supports an implanted ovum in the case of pregnancy
+- If there is no pregnancy, top layers of endometrium shed and menstrual bleeding occurs
+- [[Pituitary gland]] releases [[Follicle Stimulating Hormone|FSH]] 
+	- Stimulates ovary to produce immature follicles
+	- Each follicle has an immature egg
+	- The follicle targeted to mature will supture and expel a mature egg in [[ovulation]]
+	- 
