@@ -53,6 +53,15 @@
 		- How the fetus is affected and necessary education in such cases
 
 **Prenatal**
-- Test 
+- Know normal mental and physical changes as pregnancy progresses
+	- Nursing interventions and education about these changes
+- Diagnostic test
+	- Things that are ordered for the pregnant mother throughout her pregnancy
+	- Things to note:
+		- When it's ordered
+		- Prep education for the patient 
+		- How to prep for these as a nurse 
+	- Typical tests done
+		- Amniocentesis
 
 
