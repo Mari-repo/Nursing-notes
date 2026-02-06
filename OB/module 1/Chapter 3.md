@@ -20,10 +20,10 @@
 - High levels are often found in menstrual blood 
 
 
-# **[[Ovarian cycle]]**
+# [[! Ovarian cycle index|Ovarian cycle]]
 - Refers to the predictable changes in the female's oocytes and ovarian follicles. 
 - These events are associated with a developing oocyte within the [[ovaries]]
-- There are three phases to the Ovarian cycle 
+- There are three phases to the Ovarian cycle  
 
 #### [[Follicular phase]]
 ![[Follicular phase#Itemized notes]]
