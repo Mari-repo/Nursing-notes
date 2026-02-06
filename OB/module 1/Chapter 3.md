@@ -16,11 +16,17 @@
 	- Stimulates ovulation 
 	- Stimulates formation of [[corpus luteum]]. 
 	- [[Estrogen]] production declines 
-	- [[progesterone]] secretion continues
+	- [[Progesterone]] secretion continues
 	- [[Estrogen]] levels fall a day before [[ovulation]] and progesterone levels begin to rise.
 - [[Estrogen]]
 	- Development of secondary Female sexual characteristics
 	- Secreted by ovaries
 	- Development and maturation of the Follicle
-	- Predominant at the end of the [[proliferative phase]], before 
-	- 
+	- Predominant at the end of the [[proliferative phase]], before [[ovulation]]
+	- Levels drop after ovulation due to increase in [[Progesterone]]
+	- Induces proliferation of endometrial glands
+	- Causes uterus to increase in size and weight
+		- Due to increased [[glycogen]], [[amino acids]], [[electrolytes]] and water
+		- Blood supply is expanded as well
+- [[Progesterone]]
+	- Secreted by Corpus Luteum
