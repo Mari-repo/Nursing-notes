@@ -7,11 +7,11 @@
 	- Pulsation increases during [[Luteal phase]]
 	- Causes the [[Pituitary gland]] to release [[Follicle Stimulating Hormone|FSH]] and [[Luteinizing Hormone|LH]]
 - [[Follicle Stimulating Hormone]]
-	- Secreted by the [[Anterior pituitary gland]]
+	- Secreted by the [[Anterior Pituitary Gland]]
 	- Release and maturation of the ovarian follicle
 	- Highest and most important during the first week of the [[Follicular phase]]
 - [[Luteinizing Hormone]]
-	- Secreted by the [[Anterior pituitary gland]]
+	- Secreted by the [[Anterior Pituitary Gland]]
 	- required for both the final maturation of preovulatory follicles and luteinization of the ruptured follicle. 
 	- Stimulates ovulation 
 	- Stimulates formation of [[Corpus Luteum]]. 
@@ -19,15 +19,7 @@
 	- [[Progesterone]] secretion continues
 	- [[Estrogen]] levels fall a day before [[Ovulation]] and progesterone levels begin to rise.
 - [[Estrogen]]
-	- Development of secondary Female sexual characteristics
-	- Secreted by ovaries
-	- Development and maturation of the Follicle
-	- Predominant at the end of the [[proliferative phase]], before [[Ovulation]]
-	- Levels drop after ovulation due to increase in [[Progesterone]]
-	- Induces proliferation of endometrial glands
-	- Causes uterus to increase in size and weight
-		- Due to increased [[glycogen]], [[amino acids]], [[electrolytes]] and water
-		- Blood supply is expanded as well
+- ![[Estrogen#Itemized notes]]
 - [[Progesterone]]
 	- Secreted by [[Corpus Luteum]]
 	- Increases before [[Ovulation]] 
