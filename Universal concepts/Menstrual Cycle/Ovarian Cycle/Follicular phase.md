@@ -18,3 +18,4 @@ Prompted by the hypothalamus, the pituitary gland releases follicle-stimulating 
 	- Surge of [[Luteinizing Hormone|LH]]
 		- Responsible for development and rupture of mature follicle
 	- The follicular phase ends the day before the [[Luteinizing Hormone|LH]] surge occurs
+- 

@@ -7,4 +7,11 @@ The luteal phase begins at ovulation and lasts until the menstrual phase of the 
 - After follicle rupture, it closes and forms a [[Corpus Luteum]] 
 	- Secretes increasing amounts of [[Progesterone]] which prepares the endometrium for implantation
 - At the start of this phase [[Progesterone]] induces endometrial glands to secrete glycogen, mucus and other substances
-- 
+- The progesterone secreted causes the temp of the body to rise slightly 
+- An increase in temp (around 0.5 to 1 f) is expected until the start of the next cycle
+	- If temp doesn't decrease it could be an early sign of pregnancy 
+- In the absence of fertilization 
+	- The [[Corpus Luteum]] degenerates
+	- Ovarian hormone levels decrease
+- While estrogen and progesteron levels go down, the endometrium goes through involution
+- [[Follicle Stimulating Hormone|FSH]] and [[Luteinizing Hormone|LH]] are generally at their lowest during the luteal phase and highest during the [[follicular phase]]
